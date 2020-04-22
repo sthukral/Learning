@@ -28,7 +28,7 @@ public class positive_integer {
             }
 
         }
-        double average = (double)sum / count;
+        double average = (double) sum / count;
         System.out.println("The average is " + average);
         System.out.println("End.");
 
